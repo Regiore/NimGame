@@ -143,7 +143,6 @@
             }
         },
         {
-<<<<<<< HEAD
             "Key": "901fc355-6a3d-4c88-9514-935023714b4e",
             "Value": {
                 "id": "8670c5eb-7a92-4a0b-8947-d64a1a412024",
@@ -157,13 +156,6 @@
                 "id": "ed543ba3-2760-46ea-8cfa-119e66aa6041",
                 "resourcePath": "objects\\Chip\\Chip.yy",
                 "resourceType": "GMObject"
-=======
-            "Key": "a9188620-a624-4a5a-83ae-a1b53faf038b",
-            "Value": {
-                "id": "8b3c8c32-2960-4d80-a381-a4fb1ae6a263",
-                "resourcePath": "options\\linux\\options_linux.yy",
-                "resourceType": "GMLinuxOptions"
->>>>>>> 1fa0772ca76abe57e2f9008caa1699315da4de76
             }
         },
         {
@@ -228,14 +220,6 @@
                 "id": "17dfa945-bd47-4e61-a0b8-dd7061e9abed",
                 "resourcePath": "views\\e4fbca10-711b-4369-b89d-f986c382a60d.yy",
                 "resourceType": "GMFolder"
-            }
-        },
-        {
-            "Key": "f418569b-3bdd-4706-a0e4-364317f54032",
-            "Value": {
-                "id": "38ac4d50-0376-44b8-916f-687b4ec82970",
-                "resourcePath": "options\\mac\\options_mac.yy",
-                "resourceType": "GMMacOptions"
             }
         }
     ],
