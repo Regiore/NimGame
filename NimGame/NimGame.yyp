@@ -63,6 +63,14 @@
             }
         },
         {
+            "Key": "2b1d82ee-c04a-44f0-bda9-5e0b516ec0eb",
+            "Value": {
+                "id": "10026cd0-9b95-42ae-a987-92e38f0badea",
+                "resourcePath": "sprites\\ChipSprite\\ChipSprite.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "2fb42ae3-882f-4c73-abee-1b21bb501831",
             "Value": {
                 "id": "5a8ad58c-f1c0-4225-bfcf-7ddbc6332fb9",
@@ -143,11 +151,27 @@
             }
         },
         {
+            "Key": "9671c74a-278f-4c34-b794-bb1f18da3a5a",
+            "Value": {
+                "id": "ed543ba3-2760-46ea-8cfa-119e66aa6041",
+                "resourcePath": "objects\\Chip\\Chip.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "b0a2e7c3-032f-4774-8534-54493411bccf",
             "Value": {
                 "id": "32378f35-5fc5-4cbd-a8d7-c479aa5e1b77",
                 "resourcePath": "views\\b0a2e7c3-032f-4774-8534-54493411bccf.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "bfba5b08-0165-4345-8f70-a7eeb26c77c2",
+            "Value": {
+                "id": "6638848c-3acb-44ff-a56c-17a608c86175",
+                "resourcePath": "sprites\\sprite0\\sprite0.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
