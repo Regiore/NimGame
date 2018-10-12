@@ -1,18 +1,18 @@
 {
-    "id": "4e44a111-e10a-46ca-8f37-376712acac4b",
+    "id": "935d8224-c181-4793-bdd7-57067f2c9db4",
     "modelName": "GMObject",
     "mvc": "1.0",
-    "name": "EasyButton",
+    "name": "ExitButton",
     "eventList": [
         {
-            "id": "43265efd-bf76-4083-9951-9768874cd4a6",
+            "id": "8d7c31de-6ac5-4c1d-942f-68f2f00ddae4",
             "modelName": "GMEvent",
             "mvc": "1.0",
             "IsDnD": false,
             "collisionObjectId": "00000000-0000-0000-0000-000000000000",
             "enumb": 4,
             "eventtype": 6,
-            "m_owner": "4e44a111-e10a-46ca-8f37-376712acac4b"
+            "m_owner": "935d8224-c181-4793-bdd7-57067f2c9db4"
         }
     ],
     "maskSpriteId": "00000000-0000-0000-0000-000000000000",
@@ -33,6 +33,6 @@
     "physicsStartAwake": true,
     "properties": null,
     "solid": false,
-    "spriteId": "aacffd36-7b49-4df2-9a70-42d78d6947a6",
+    "spriteId": "ed463471-b94d-4e1b-9c67-b33003f06403",
     "visible": true
 }

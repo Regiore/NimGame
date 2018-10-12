@@ -1,18 +1,18 @@
 {
-    "id": "4e44a111-e10a-46ca-8f37-376712acac4b",
+    "id": "f40ca7ac-30c1-4d4c-b67c-cd15b13b2b48",
     "modelName": "GMObject",
     "mvc": "1.0",
-    "name": "EasyButton",
+    "name": "MediumButton",
     "eventList": [
         {
-            "id": "43265efd-bf76-4083-9951-9768874cd4a6",
+            "id": "e058f013-257c-4319-b121-2a5b32a9192e",
             "modelName": "GMEvent",
             "mvc": "1.0",
             "IsDnD": false,
             "collisionObjectId": "00000000-0000-0000-0000-000000000000",
             "enumb": 4,
             "eventtype": 6,
-            "m_owner": "4e44a111-e10a-46ca-8f37-376712acac4b"
+            "m_owner": "f40ca7ac-30c1-4d4c-b67c-cd15b13b2b48"
         }
     ],
     "maskSpriteId": "00000000-0000-0000-0000-000000000000",
@@ -33,6 +33,6 @@
     "physicsStartAwake": true,
     "properties": null,
     "solid": false,
-    "spriteId": "aacffd36-7b49-4df2-9a70-42d78d6947a6",
+    "spriteId": "24526578-af7e-4dee-882c-f8687e16c6e4",
     "visible": true
 }

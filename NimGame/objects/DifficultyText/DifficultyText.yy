@@ -1,18 +1,28 @@
 {
-    "id": "4e44a111-e10a-46ca-8f37-376712acac4b",
+    "id": "efea748d-1415-4830-a524-129de04e66b4",
     "modelName": "GMObject",
     "mvc": "1.0",
-    "name": "EasyButton",
+    "name": "DifficultyText",
     "eventList": [
         {
-            "id": "43265efd-bf76-4083-9951-9768874cd4a6",
+            "id": "3ff70983-3cac-4129-9ec8-36f368717f11",
             "modelName": "GMEvent",
             "mvc": "1.0",
             "IsDnD": false,
             "collisionObjectId": "00000000-0000-0000-0000-000000000000",
-            "enumb": 4,
-            "eventtype": 6,
-            "m_owner": "4e44a111-e10a-46ca-8f37-376712acac4b"
+            "enumb": 0,
+            "eventtype": 0,
+            "m_owner": "efea748d-1415-4830-a524-129de04e66b4"
+        },
+        {
+            "id": "708353f2-19f3-4337-a418-16489e2520e2",
+            "modelName": "GMEvent",
+            "mvc": "1.0",
+            "IsDnD": false,
+            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
+            "enumb": 0,
+            "eventtype": 8,
+            "m_owner": "efea748d-1415-4830-a524-129de04e66b4"
         }
     ],
     "maskSpriteId": "00000000-0000-0000-0000-000000000000",
@@ -33,6 +43,6 @@
     "physicsStartAwake": true,
     "properties": null,
     "solid": false,
-    "spriteId": "aacffd36-7b49-4df2-9a70-42d78d6947a6",
+    "spriteId": "00000000-0000-0000-0000-000000000000",
     "visible": true
 }

@@ -199,6 +199,14 @@
             }
         },
         {
+            "Key": "935d8224-c181-4793-bdd7-57067f2c9db4",
+            "Value": {
+                "id": "fe1c37d3-1742-41a2-b505-0cdd5833e415",
+                "resourcePath": "objects\\ExitButton\\ExitButton.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "9671c74a-278f-4c34-b794-bb1f18da3a5a",
             "Value": {
                 "id": "ed543ba3-2760-46ea-8cfa-119e66aa6041",
@@ -279,11 +287,43 @@
             }
         },
         {
+            "Key": "db39a2fa-c902-409b-a6f5-d5616fb2a210",
+            "Value": {
+                "id": "c50b4b29-0d7a-4859-b855-3a41b01cb2d5",
+                "resourcePath": "objects\\HardButton\\HardButton.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "e4fbca10-711b-4369-b89d-f986c382a60d",
             "Value": {
                 "id": "17dfa945-bd47-4e61-a0b8-dd7061e9abed",
                 "resourcePath": "views\\e4fbca10-711b-4369-b89d-f986c382a60d.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "ed463471-b94d-4e1b-9c67-b33003f06403",
+            "Value": {
+                "id": "df966423-56fa-42b8-a7db-d4114b60a19b",
+                "resourcePath": "sprites\\ExitButtonSprite\\ExitButtonSprite.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "efea748d-1415-4830-a524-129de04e66b4",
+            "Value": {
+                "id": "361bed14-a307-40e9-80cf-348f3448b9ae",
+                "resourcePath": "objects\\DifficultyText\\DifficultyText.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "f40ca7ac-30c1-4d4c-b67c-cd15b13b2b48",
+            "Value": {
+                "id": "7cfabd74-d822-4d70-8f90-66fb1218f8fb",
+                "resourcePath": "objects\\MediumButton\\MediumButton.yy",
+                "resourceType": "GMObject"
             }
         },
         {
