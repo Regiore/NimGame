@@ -47,6 +47,14 @@
             }
         },
         {
+            "Key": "0e624aae-45cf-4365-85ca-58dcb43fa052",
+            "Value": {
+                "id": "74615471-7b26-446b-aaa9-c7c7e36bbd61",
+                "resourcePath": "objects\\ChipGreen\\ChipGreen.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "162e815b-3de3-4bd4-b72a-4f32931a0ebb",
             "Value": {
                 "id": "2f666518-6410-4742-9a14-3e98ab2ca758",
@@ -135,6 +143,14 @@
             }
         },
         {
+            "Key": "495b6523-8276-4a8e-b49f-2ffd76f73e50",
+            "Value": {
+                "id": "fdc604f5-4008-48b0-ad56-848b66b0294f",
+                "resourcePath": "sprites\\ChipSpriteGreen\\ChipSpriteGreen.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "4e44a111-e10a-46ca-8f37-376712acac4b",
             "Value": {
                 "id": "0b21ebf5-fbc8-471b-bc1e-0b320f1bd604",
@@ -191,6 +207,14 @@
             }
         },
         {
+            "Key": "80a72e9a-330a-4885-a475-ab620b5e6543",
+            "Value": {
+                "id": "2fd8cb55-59aa-491d-9bd1-a9ce5dead49d",
+                "resourcePath": "sprites\\ChipSpriteBlue\\ChipSpriteBlue.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "901fc355-6a3d-4c88-9514-935023714b4e",
             "Value": {
                 "id": "8670c5eb-7a92-4a0b-8947-d64a1a412024",
@@ -228,6 +252,14 @@
                 "id": "b8b15bc7-57b3-4de0-bf70-d504269197fe",
                 "resourcePath": "sprites\\EasyButtonSprite\\EasyButtonSprite.yy",
                 "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "ae12176a-17e8-4c39-b31d-df6066c9a676",
+            "Value": {
+                "id": "57ba911b-f489-4d1b-ad85-76be338ef54c",
+                "resourcePath": "objects\\ChipBlue\\ChipBlue.yy",
+                "resourceType": "GMObject"
             }
         },
         {

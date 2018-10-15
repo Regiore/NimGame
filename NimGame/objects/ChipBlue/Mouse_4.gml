@@ -1,7 +1,6 @@
 
 if selected = false
 {
-	SelectedColor = "red"
 	selected = true;
 }
 
