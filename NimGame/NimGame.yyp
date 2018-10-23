@@ -263,6 +263,14 @@
             }
         },
         {
+            "Key": "b00105c1-7027-4474-aaa1-4a05d9a476cd",
+            "Value": {
+                "id": "6497d974-4406-4781-90e8-a775b225ee91",
+                "resourcePath": "objects\\gamescript\\gamescript.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "b0a2e7c3-032f-4774-8534-54493411bccf",
             "Value": {
                 "id": "32378f35-5fc5-4cbd-a8d7-c479aa5e1b77",
