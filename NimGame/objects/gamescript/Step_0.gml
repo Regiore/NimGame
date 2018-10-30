@@ -18,32 +18,32 @@ if(turn != "player")
 	digit1 += tempRed | 1;
 	if(digit1 == 1)
 	{
-		change1[0] = 'r';
+		change1[0] = "r";
 	}
-	tempRed >>= 1;
+	tempRed = tempRed >> 1;
 	digit2 += tempRed | 1;
-	if(digit2 == 1){change2[0] = 'r';}
-	tempRed >>= 1;
+	if(digit2 == 1){change2[0] = "r";}
+	tempRed = tempRed >> 1;
 	digit3 += tempRed | 1;
-	if(digit3 == 1){change3[0] = 'r';}
+	if(digit3 == 1){change3[0] = "r";}
 	
 	//Green calculations
 	if(tempGreen | 1)
 	{
 		digit1 += 1;
-		change1[1] = 'g';
+		change1[1] = "g";
 	}
-	tempGreen >>= 1;
+	tempGreen = tempGreen >> e1;
 	if(tempGreen | 1)
 	{
 		digit2 += 1;
-		change2[1] = 'g';
+		change2[1] = "g";
 	}
-	tempGreen >>= 1;
+	tempGreen = tempGreen >> 1;
 	if(tempGreen | 1)
 	{
 		digit3 += 1;
-		change3[2] = 'g';
+		change3[2] = "g";
 	}
 	
 	
@@ -51,19 +51,19 @@ if(turn != "player")
 	if(tempBlue | 1)
 	{
 		digit1 += 1;
-		change1[0] = 'b';
+		change1[0] = "b";
 	}
-	tempBlue >>= 1;
+	tempBlue = tempBlue >> 1;
 	if(tempBlue | 1)
 	{
 		digit2 += 1;
-		change2[1] = 'b';
+		change2[1] = "b";
 	}
-	tempBlue >>= 1;
+	tempBlue = tempBlue >> 1;
 	if(tempBlue | 1)
 	{
 		digit3 += 1;
-		change3[2] = 'b';
+		change3[2] = "b";
 	}
 	
 	//masterlist sees how many should be removed from said list
