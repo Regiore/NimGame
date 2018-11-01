@@ -4,3 +4,4 @@ selected = false;
 image_speed = 0;
 value = 1;
 color = "green"; //Red,green,blue?
+global.SelectedColor = "none";

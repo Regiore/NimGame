@@ -1,7 +1,7 @@
 
 if (selected = false) && (global.turn = "player")
 {
-	SelectedColor = "red"
+	global.SelectedColor = "red"
 	selected = true;
 }
 
