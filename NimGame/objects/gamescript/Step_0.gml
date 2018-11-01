@@ -15,52 +15,52 @@ if(turn != "player")
 	tempBlue = blue_count;
 	
 	//do red calculations
-	digit1 += tempRed | 1;
+	digit1 += tempRed & 1;
 	if(digit1 == 1)
 	{
 		change1[0] = "r";
 	}
 	tempRed = tempRed >> 1;
-	digit2 += tempRed | 1;
+	digit2 += tempRed & 1;
 	if(digit2 == 1){change2[0] = "r";}
 	tempRed = tempRed >> 1;
-	digit3 += tempRed | 1;
+	digit3 += tempRed & 1;
 	if(digit3 == 1){change3[0] = "r";}
 	
 	//Green calculations
-	if(tempGreen | 1)
+	if(tempGreen & 1)
 	{
 		digit1 += 1;
 		change1[1] = "g";
 	}
-	tempGreen = tempGreen >> e1;
-	if(tempGreen | 1)
+	tempGreen = tempGreen >> 1;
+	if(tempGreen & 1)
 	{
 		digit2 += 1;
 		change2[1] = "g";
 	}
 	tempGreen = tempGreen >> 1;
-	if(tempGreen | 1)
+	if(tempGreen & 1)
 	{
 		digit3 += 1;
-		change3[2] = "g";
+		change3[1] = "g";
 	}
 	
 	
 	//Blue calculations
-	if(tempBlue | 1)
+	if(tempBlue & 1)
 	{
 		digit1 += 1;
-		change1[0] = "b";
+		change1[2] = "b";
 	}
 	tempBlue = tempBlue >> 1;
-	if(tempBlue | 1)
+	if(tempBlue & 1)
 	{
 		digit2 += 1;
-		change2[1] = "b";
+		change2[2] = "b";
 	}
 	tempBlue = tempBlue >> 1;
-	if(tempBlue | 1)
+	if(tempBlue & 1)
 	{
 		digit3 += 1;
 		change3[2] = "b";
@@ -68,7 +68,7 @@ if(turn != "player")
 	
 	//masterlist sees how many should be removed from said list
 	masterList = [0,0,0];
-	if(digit1 % 2 != 0) //if odd
+	if(digit1 % 2 != 0) //if odd and remainder not 0
 	{
 			if(change1[0] != 0) //check if red needs added to possible change
 			{
