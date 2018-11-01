@@ -1,5 +1,5 @@
 
-if selected = false
+if (selected = false)  && (global.turn = "player")
 {
 	selected = true;
 }

@@ -8,9 +8,9 @@ change2 = [0,0,0];  ///These store what color increased the digit amount
 change3 = [0,0,0]; ///stores 'r', 'g', 'b' if a change was made to that color
 					//in that binary collumn
 
-if(turn != "player")
+if(global.turn != "player")
 {
-	show_debug_message("AI's Turn")
+	show_debug_message("AI's Turn");
 	tempRed = red_count;
 	tempGreen = green_count;
 	tempBlue = blue_count;
@@ -117,4 +117,5 @@ if(turn != "player")
 			}
 	}
 	
+	global.turn = "player";
 }

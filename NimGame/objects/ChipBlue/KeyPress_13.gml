@@ -4,5 +4,5 @@ if selected = true
 {
 	gamescript.blue_count -= 1;
 	instance_destroy();
-	turn = "AI"
+	global.turn = "AI"
 }

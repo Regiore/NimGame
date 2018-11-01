@@ -6,4 +6,4 @@ green_count = 4;
 blue_count = 3;
 
 difficulty = 3;
-turn = "player";
+global.turn = "player";
