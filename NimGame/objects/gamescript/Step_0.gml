@@ -10,6 +10,7 @@ change3 = [0,0,0]; ///stores 'r', 'g', 'b' if a change was made to that color
 
 if(turn != "player")
 {
+	show_debug_message("AI's Turn")
 	tempRed = red_count;
 	tempGreen = green_count;
 	tempBlue = blue_count;
@@ -115,10 +116,5 @@ if(turn != "player")
 				masterList[2] += 4;
 			}
 	}
-		
-	//remove from one of the master list storage [0] = red, [1] = green, [2] = blue
-	//to much broken
-	///to much sleep needed
-	//sorry
 	
 }
